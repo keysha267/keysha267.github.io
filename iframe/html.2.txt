@@ -1,0 +1,110 @@
+<html>
+
+<head>
+     <title>Second Story Thrift</title>
+</head>
+
+<body>
+ 
+<h1>SECOND STORY THRIFT</h1>
+
+<nav>
+     <a href="#home"
+     target="konten">Home</a>
+    <a href="#profil"
+     target="konten">Profil</a>
+    <a href="#produk"
+     target="konten">Produk</a>
+    <a href="#koleksi"
+     target="konten">Koleksi</a>
+    <a href="#cara order"
+     target="konten">Cara Order</a>
+    <a href="#kontak"
+     target="konten">Kontak</a>
+</nav>
+
+<hr>
+
+<main>
+
+<h2>Area Konten</h2>
+
+<div id="home">
+
+<h2>Selamat Datang di Second Story Thrift!</h2>
+
+<p>Selamat datang di Second Story Thrift. Kami menyediakan berbagai pakaian thrift dengan harga terjangkau dan model yang menarik.
+</p>
+
+<p>Temukan outfit favoritmu dan berikan cerita baru pada pakaian pilihanmu.
+</p>
+
+</div.
+
+<div id="profil">
+
+<h2>Profil Second Thrift</h2>
+
+<p>Second Story Thrift adalah toko yang menjual berbagai pakaian secondhand atau thrift yang masih layak digunakan.
+</p>
+
+<p>Kami menyediakan pakaian dengan model unik, nyaman, dan harga yang terjangkau.
+</p>
+
+<h3>Visi</h3>
+
+<ul>
+<li>Menyediakan pakaian thrift berkualitas.</li>
+<li>Memberikan harga yang terjangkau.</li>
+<li>Memberikan pelayanan yang baik.</li>
+</ul>
+
+</div>
+<div id="produk">
+<h2>Produk Thrift</h2>
+
+<table border="1" cellpading="10">
+
+<tr>
+<th>No</th>
+<th>Nama Produk</th>
+<th>Ukuran</th>
+<th>Kondisi</th>
+<th>Harga</th>
+</tr>
+      
+<tr>
+<td>1</th>
+<td>Vintage Shirt</td>
+<td>M</th>
+<td>9/10</th>
+<td>Rp45.000</td>
+</tr>
+
+<tr>
+<td>2</th>
+<td>Denim Jacket</td>
+<td>L</th>
+<td>9/10</th>
+<td>Rp85.000</td>
+</tr>
+
+<tr>
+<td>3</th>
+<td>Oversized Hoodie</td>
+<td>L</th>
+<td>8/10</th>
+<td>Rp65.000</td>
+</tr>
+
+<tr>
+<td>4</th>
+<td>Vintage Skirt</td>
+<td>L</th>
+<td>8/10</th>
+<td>Rp50.000</td>
+</tr>
+
+</table>
+
+</div>
